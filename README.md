@@ -41,6 +41,7 @@
 
 - **rDAI Bounty** :fire: https://explorer.bounties.network/bounty/3921
 
+- **Pocket Bounties** :building_construction: https://explorer.bounties.network/bounty/3932 / https://explorer.bounties.network/bounty/3933
 ---
 
 ### Hackathon Theme Ideas:
